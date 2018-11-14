@@ -1,2 +1,2 @@
-# skills-map-web
-The web client (skills-map.herokuapp.com) for skills-map-server.herokuapp.com
+# Gistout
+The front-end web client for gistout.com
