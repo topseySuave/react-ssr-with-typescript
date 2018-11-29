@@ -1,5 +1,5 @@
 {
-  "name": "gistout",
+  "name": "react-ssr-with-typescript",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://topseySuave@bitbucket.org/gistout/gistout-frontend.git"
+    "url": "git+https://github.com/topseySuave/react-ssr-with-typescript.git"
   },
   "keywords": [
     "chat",
@@ -35,9 +35,9 @@
   "author": "Gabriel Micah",
   "license": "ISC",
   "bugs": {
-    "url": "https://topseySuave@bitbucket.org/gistout/gistout-frontend/issues"
+    "url": "https://github.com/topseySuave/react-ssr-with-typescript/issues"
   },
-  "homepage": "https://topseySuave@bitbucket.org/gistout/gistout-frontend.git#readme",
+  "homepage": "https://github.com/topseySuave/react-ssr-with-typescript.git#readme",
   "dependencies": {
     "babel-plugin-transform-rename-import": "^2.3.0",
     "babel-preset-es2015": "^6.24.1",

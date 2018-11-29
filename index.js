@@ -10,7 +10,7 @@ const app = express();
 
 app.set('port', process.env.PORT || 1234);
 
-app.get('/', (req, res, next) => {
+app.get('*', (req, res, next) => {
   // point to the html file created by CRA's build tool
   const filePath = path.resolve(__dirname, 'dist', 'index.html');
 

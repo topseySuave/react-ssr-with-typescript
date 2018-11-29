@@ -1,5 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import * as React from 'react';
+import { hydrate } from 'react-dom';
 import Main from './Main';
 
-ReactDOM.hydrate(<Main />, document.getElementById('root'));
+hydrate(<Main />, document.getElementById('root'));
